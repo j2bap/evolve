@@ -3,8 +3,8 @@
   "name": "evolve",
   "description": "Write by selection. The model does not need a better prompt, it needs you to pick a winner.",
   "owner": {
-    "name": "willy",
-    "url": "https://github.com/9710willy"
+    "name": "j2bap",
+    "url": "https://github.com/j2bap"
   },
   "plugins": [
     {

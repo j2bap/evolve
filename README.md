@@ -1,13 +1,13 @@
 # evolve
 
-[![checks](https://github.com/9710willy/evolve/actions/workflows/checks.yml/badge.svg)](https://github.com/9710willy/evolve/actions/workflows/checks.yml)
+[![checks](https://github.com/j2bap/evolve/actions/workflows/checks.yml/badge.svg)](https://github.com/j2bap/evolve/actions/workflows/checks.yml)
 
 A Claude Code plugin. Two drafts every turn, you keep one, it breeds.
 
 ## Install
 
 ```
-/plugin marketplace add 9710willy/evolve
+/plugin marketplace add j2bap/evolve
 /plugin install evolve@evolve
 ```
 
